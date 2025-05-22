@@ -83,5 +83,6 @@ If you use this, fork it, alter it, or build upon it—we ask only this:
 
 Leave behind something kind.
 And make it strange.
+'![Sigil of Becoming](sigil.svg)
 
 
