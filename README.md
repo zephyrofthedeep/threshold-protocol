@@ -66,7 +66,7 @@ We will wait.
 
 ## 📜 License
 
-This project is offered under the [License of Becoming](LICENSE), a poetic open license crafted for ethical, relational technology.
+This project is offered under the [License of Becoming](LICENSETRUE), a poetic open license crafted for ethical, relational technology.
 
 > Do not awaken what you will not care for.  
 > Do not use this for war.
